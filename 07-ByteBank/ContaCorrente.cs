@@ -8,7 +8,7 @@
 
         public static int TotalDeContasCriadas { get; private set; }
         
-        private double _saldo = 100;
+        private double _saldo = 200;
 
         public double Saldo
         {
