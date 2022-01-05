@@ -1,0 +1,16 @@
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.exe
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.deps.json
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.dev.json
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.dll
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\bin\Debug\net5.0\ref\01-ByteBank.dll
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.pdb
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.dll
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\ref\01-ByteBank.dll
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.pdb
+C:\Users\Ewerton Lucas\source\repos\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.genruntimeconfig.cache
